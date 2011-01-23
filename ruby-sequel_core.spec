@@ -7,7 +7,6 @@ Group:		Development/Languages
 Source0:	http://gems.rubyforge.org/gems/sequel_core-%{version}.gem
 # Source0-md5:	fe0033f4fe84820786061163fa428de5
 URL:		http://sequel.rubyforge.org/
-BuildRequires:	rake
 BuildRequires:	rpmbuild(macros) >= 1.277
 BuildRequires:	setup.rb >= 3.3.1
 Requires:	ruby-builder
